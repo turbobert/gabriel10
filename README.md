@@ -9,4 +9,4 @@ A very simple and stupid PDF generator.
   * images
   * page numbers
 
-See `gabriel10/exampels` folder for examples.
+See `gabriel10/examples`.

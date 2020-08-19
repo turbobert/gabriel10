@@ -1,3 +1,6 @@
 .idea
 .DS_Store
 *.pyc
+dist
+build
+gabriel10_turbobert.egg-info

@@ -1,7 +1,7 @@
 import gabriel10
 import sys
 
-doc = gabriel10.Document7396()
+doc = gabriel10.Document7293()
 
 data = sys.stdin.read().split("\n")
 current_line = 1

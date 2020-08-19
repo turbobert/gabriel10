@@ -5,7 +5,7 @@ from reportlab.lib.pagesizes import A4
 from tabulate import tabulate
 
 a4_w, a4_h = A4
-pagecfg = {"ma_top": 5, "ma_left": 5, "lh": 4 * mm, "w": a4_w, "h": a4_h, "fontsize": 11}
+pagecfg = {"ma_top": 8, "ma_left": 5, "lh": 4 * mm, "w": a4_w, "h": a4_h, "fontsize": 11}
 
 
 class Page:
@@ -29,7 +29,7 @@ class Page:
         self.commands.append(["table", data, headers, row1, col1, title])
 
 
-class Document7396:
+class Document7293:
 
     def __init__(self):
         self._pages = []
