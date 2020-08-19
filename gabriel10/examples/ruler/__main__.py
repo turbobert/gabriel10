@@ -11,4 +11,4 @@ for r in range(1, 73):
         else:
             doc.page(1).textb(r, 1, "%02d -5-7-9|1-3-5-7-9|1-3-5-7-9|1-3-5-7-9|1-3-5-7-9|1-3-5-7-9|1-3-5-7-9|1-3-5-7-9|1-3-5-7-9| %02d" % (r, r))
 
-doc.build("gabriel10_ruler7396.pdf")
+doc.build("gabriel10_ruler7293.pdf")
